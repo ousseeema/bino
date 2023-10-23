@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603282217452",
+    "project_id": "bino-cea94",
+    "storage_bucket": "bino-cea94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603282217452:android:8d4157762e972687c308c9",
+        "android_client_info": {
+          "package_name": "com.example.bino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603282217452-orbnulkkl0g3na0e0kdu3pbv00kte4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXVTUqlRuG3cwn7L96EYVOamyYH0KypM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603282217452-orbnulkkl0g3na0e0kdu3pbv00kte4od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
